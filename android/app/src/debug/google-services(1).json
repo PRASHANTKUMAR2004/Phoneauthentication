@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1021157987774",
+    "project_id": "phone-firebase-da706",
+    "storage_bucket": "phone-firebase-da706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021157987774:android:107e952e7a7d43abd955ef",
+        "android_client_info": {
+          "package_name": "com.example.userauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021157987774-hob9oi49julhlok4vavvb3au42kct9uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGzCv-osW0vlMFKctTs-ItMmoxKAmuKSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021157987774-hob9oi49julhlok4vavvb3au42kct9uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
